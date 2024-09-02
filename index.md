@@ -1,6 +1,6 @@
 ---
 ---
 
-# OS242: CBKADAL
+os242
 
 [LINKS](LINKS/)
