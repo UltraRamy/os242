@@ -1,6 +1,6 @@
 ---
 ---
 
-os242
+# OS242: UltraRamy
 
-[LINKS](LINKS/)
+[LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/UltraRamy/os242/)
