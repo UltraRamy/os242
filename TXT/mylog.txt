@@ -1,13 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W01 200 L02 Attend OS classes
-ZCZC W01 180 L09 Weekly Assignments
-ZCZC W01 30 L05 Study and do weekly quiz
-ZCZC W01 30 L62 Set up debian guest
-ZCZC W01 10 L41 Update log.txt
-ZCZC W01 120 L31 Set up virtualbox & install debian
-ZCZC W01 20 L01 Answer popquiz in SCELE
+ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 30 L40 TXT/ related in general.
+ZCZC W01 10 L32 YouTube walktrhough VB
+ZCZC W01 60 L31 Installing Debian
+ZCZC W01 300 L09 Doing assignments
+ZCZC W01 30 L08 Discussing assignments
+ZCZC W01 30 L06 Reading slide sources
+ZCZC W01 30 L05 Reading slides
+ZCZC W01 60 L04 Setting up permalinks
+ZCZC W01 30 L03 Editing assignments
+ZCZC W01 200 L02 Class
+ZCZC W01 30 L01 Forum, Information, and Quiz
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
