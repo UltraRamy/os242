@@ -19,5 +19,11 @@ Good place to study!
 * [pwn.college](https://pwn.college/) --- 
 Another security learning platform.
 Also a good place to study!
+* [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) --- 
+Place to learn about the basics of file systems.
+Simple and straightforward!
+* [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/) --- 
+Place to learn about the basics of disk partitioning in linux.
+Straightforward and simple!
 <br>
 <hr>
