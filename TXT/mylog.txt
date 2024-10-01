@@ -1,6 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W04 30 L05 QUIZ and the zoom
+ZCZC W04 60 L40 TXT/ related in general.
+ZCZC W04 300 L09 Doing assignments
+ZCZC W04 30 L08 Discussing assignments
+ZCZC W04 60 L06 Reading slide sources
+ZCZC W04 30 L05 Reading slides
+ZCZC W04 30 L03 Editing assignments
+ZCZC W04 200 L02 Class
 ZCZC W03 30 L05 QUIZ and the zoom
 ZCZC W03 60 L40 TXT/ related in general.
 ZCZC W03 300 L09 Doing assignments
