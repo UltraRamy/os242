@@ -25,5 +25,11 @@ Simple and straightforward!
 * [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/) --- 
 Place to learn about the basics of disk partitioning in linux.
 Straightforward and simple!
+* [Online C Compiler](https://www.programiz.com/c-programming/online-compiler/) --- 
+Online compiler to code in C.
+Write and run code easily!
+* [Learn C Programming](https://www.programiz.com/c-programming) --- 
+A place to learn C fundementals.
+Structured lessons!
 <br>
 <hr>
