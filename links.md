@@ -28,7 +28,7 @@ Write and run code easily!
 * [Learn C Programming](https://www.programiz.com/c-programming) --- 
 A place to learn C fundementals.
 Structured lessons!
-* [Virtual Memory in Operating Systems]((https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)) --- 
+* [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) --- 
 A place to learn virtual memmory fundamentals.
 Easy to read!
 * [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) --- 
