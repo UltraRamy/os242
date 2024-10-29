@@ -34,5 +34,11 @@ Easy to read!
 * [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) --- 
 A place to learn page replacement algorithms.
 Easy to understand!
+* [Docusaurus](https://docusaurus.io/) --- 
+Docusaurus main page.
+Informative!
+* [Docusaurus Tutorial](https://youtube.com/playlist?list=PLY91jl6VVD7wn8SHdWKRg3AAEKbHQYaNL&feature=shared) --- 
+A place to learn about docusaurus.
+Understanding made easy!
 <br>
 <hr>
