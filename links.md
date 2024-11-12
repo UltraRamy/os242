@@ -46,5 +46,11 @@ Simple!
 * [Docusaurus Blog](https://docusaurus.io/docs/blog) --- 
 Docusaurus tutorial on creating blog.
 Straightforward!
+* [Linux From Scratch Wiki](https://en.wikipedia.org/wiki/Linux_From_Scratch) --- 
+Overview on LFS.
+Enjoyable to read!
+* [Linux From Scratch Forum](https://www.linuxquestions.org/questions/linux-from-scratch-13/) --- 
+Forum on LFS.
+Reading made enjoyable!
 <br>
 <hr>
